@@ -1,0 +1,7 @@
+.image:hover{
+    background-color: white;
+    transition: all 0.5s;
+    -webkit-transform: rotateZ(6deg);
+        -ms-transform: rotateZ(6deg);
+        transform: rotateZ(6deg);
+}
